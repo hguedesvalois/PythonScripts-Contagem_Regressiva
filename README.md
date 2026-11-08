@@ -13,5 +13,5 @@
   ```
 > run the script (example): 
   ```
-  python3 convert-temp.py`
+  python3 convert-temp.py
   ```
